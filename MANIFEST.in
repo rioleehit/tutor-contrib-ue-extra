@@ -1,0 +1,2 @@
+recursive-include tutorue_extra/patches *
+recursive-include tutorue_extra/templates *
